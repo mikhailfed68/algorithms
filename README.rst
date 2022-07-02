@@ -1,1 +1,1 @@
-This package is used for learning algorithms and data stracture.
+This package is used to study algorithms and data stractures.
