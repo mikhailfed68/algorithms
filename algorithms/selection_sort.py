@@ -8,5 +8,5 @@ def find_smallest(arr):
     return smallest_index
 
 
-def selection_sort(arr): # with generator comprehension
+def selection_sort(arr):  # with generator comprehension
     return [arr.pop(find_smallest(arr)) for i in range(len(arr))]

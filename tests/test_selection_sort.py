@@ -13,4 +13,4 @@ def test_find_smallest_with_empty_arr():
 
 
 def test_selection_sort():
-    assert selection_sort([2, 5, 6, 8, 1, -6, -10, 9]) == [-10, -6, 1, 2, 5, 6, 8, 9]
+    assert selection_sort([2, 5, 6, 8, 1, -6, -10]) == [-10, -6, 1, 2, 5, 6, 8]
