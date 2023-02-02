@@ -1,3 +1,3 @@
 =============================================================
-This package is used to study algorithms and data stractures.
+This package is used to study algorithms and data structures.
 =============================================================
